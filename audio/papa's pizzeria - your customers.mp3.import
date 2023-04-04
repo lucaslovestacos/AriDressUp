@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://vkqlx4do7gkg"
+path="res://.godot/imported/papa's pizzeria - your customers.mp3-766a873a2e8e33a3f51f898f5819875f.mp3str"
+
+[deps]
+
+source_file="res://audio/papa's pizzeria - your customers.mp3"
+dest_files=["res://.godot/imported/papa's pizzeria - your customers.mp3-766a873a2e8e33a3f51f898f5819875f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
